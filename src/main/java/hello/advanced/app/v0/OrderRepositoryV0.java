@@ -1,4 +1,4 @@
-package hello.advanced.app.V0;
+package hello.advanced.app.v0;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Repository;
